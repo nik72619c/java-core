@@ -1,6 +1,6 @@
 package practice1;
                                //PRACTICE FOR DATATYPES
- strictfp public class addnos {
+ strictfp public class datatypes {
 
 	public static void main(String[] args) {
 		
